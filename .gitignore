@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.pyc
+logs/
+debug/
+templates/
+
+# build outputs
+build/
+dist/
+release/
+*.spec
+*.zip
+
+# local config with machine-specific values (keep the example)
+# config.toml
+
+# machine-specific: copy config.example.toml -> config.toml
+config.toml
+
+*.log
+build_out.log
